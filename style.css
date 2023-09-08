@@ -713,3 +713,10 @@ footer .footer_main .footer_tag i{
 footer .footer_main .footer_tag i:hover{
    color:yellow
 }
+
+@media screen and (max-width:600px){
+           h1{
+               font-size:36px;
+line-height:50px;
+              }
+}
