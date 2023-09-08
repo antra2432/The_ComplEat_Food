@@ -130,33 +130,7 @@ section nav .icon i:hover{
     line-height: 22px;
  }
 
- section .main_btn{
-    background: yellow;
-    position: relative;
-    left: 99px;
-    top: 200px;
-    bottom: 100px;
-    width: 150px;
-    position: cursor;
-    padding: 12px 15px;
-    border-radius: 15px;
- }
-
- section .main_btn a{
-    color: white;
-    margin-right: 5px;
-    text-decoration:none ;
-    
- }
- section .main_btn i{
-    color: white;
-    transition: 0.3s;
- }
-
- section .main_btn:hover i{
-    transform: translate(7px);
-    
- }
+ 
 
  /*About*/
 
